@@ -4,6 +4,7 @@
 - async
 - base-project
 - bootstrap
+- flip-card
 - loading-assets
 - material-design-lite
 - splash-screen
