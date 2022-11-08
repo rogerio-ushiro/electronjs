@@ -1,11 +1,11 @@
 # Electron
-animatecss
-async
-base-project
-bootstrap
-loading-assets
-material-design-lite
-splash-screen
+- animatecss
+- async
+- base-project
+- bootstrap
+- loading-assets
+- material-design-lite
+- splash-screen
 
 References:
 https://www.electronjs.org/
