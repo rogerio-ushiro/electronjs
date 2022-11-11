@@ -1,0 +1,21 @@
+{
+  "name": "camera",
+  "productName": "camera",
+  "description": "camera",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "rushiro",
+  "scripts": {
+    "start": "electronmon ."
+  },
+  "dependencies": {
+    "electronmon": "^2.0.2",
+    "fs": "^0.0.1-security",
+    "node-webcam": "^0.8.1"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^21.2.3"
+  }
+}
