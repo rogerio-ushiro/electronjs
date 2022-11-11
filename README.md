@@ -1,6 +1,6 @@
 # ElectronJS
 
-- [animatecss](https://github.com/rogerio-ushiro/electronjs/tree/main/animatecss)- import and simple implementation of animations for electronjs.
+- [animatecss](https://github.com/rogerio-ushiro/electronjs/tree/main/animatecss)- simple implementation of animations for electronjs.
 - [async](https://github.com/rogerio-ushiro/electronjs/tree/main/async) - async implementation comunicating between main and renderer.
 - [base-project](https://github.com/rogerio-ushiro/electronjs/tree/main/base-project) - very basic implementation to startup a project with only the basic.
 - [bootstrap](https://github.com/rogerio-ushiro/electronjs/tree/main/bootstrap) - import and simple implementation of bootstrap structures for electronjs.
